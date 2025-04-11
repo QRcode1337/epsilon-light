@@ -1,0 +1,3 @@
+pynacl
+transformers
+requests
